@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/[your_dynamic_header_gif_here/giphy.gif](https://media.tenor.com/13viCCoDYOwAAAA1/max-verstappen-winner.webp).gif" alt="Header GIF" width="100%" />
+  <img src="https://media.tenor.com/13viCCoDYOwAAAA1/max-verstappen-winner.webp" alt="Max Verstappen Winner" width="100%" />
 </p>
+
+<br/>
+
 <h1 align="center">Hi there, I'm Kübra! 👋</h1>
 <h3 align="center">Aspiring Data Engineer | IT Project & Tools Management
 </h3>
