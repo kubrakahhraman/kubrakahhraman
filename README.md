@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/[your_dynamic_header_gif_here/giphy.gif](https://media.tenor.com/13viCCoDYOwAAAA1/max-verstappen-winner.webp)" alt="Header GIF" width="100%" />
+</p>
 <h1 align="center">Hi there, I'm Kübra! 👋</h1>
 <h3 align="center">Aspiring Data Engineer | IT Project & Tools Management
 </h3>
@@ -13,7 +16,12 @@
 - 🛠️ Deep diving into building robust data pipelines, working heavily with **Python, SQL, and Apache Kafka and many more**.
 - 🏎️ Currently building a self-led project on **Formula 1 Telemetry Data Engineering & Analysis & Predictive Modeling** (Team Verstappen! 🦁).
 - 💡 **My engineering philosophy:** *Don't just copy-paste. Break the code, fix the bugs, and fully understand the architecture before pushing to production.*
-- 📫 How to reach me: **[kubrakahhraman@gmail.com] and more info about me: LinkedIn: https://www.linkedin.com/in/kubra-kahraman/**
+- 📫 How to reach me:
+<p align="left">
+<a href="https://www.linkedin.com/in/kubra-kahraman/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:kubrakahhraman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://github.com/kubrakahhraman" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+</p>
 
 ---
 
@@ -28,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" title="Docker" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" title="Git" />
+  <img width="15" />
+  <img src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-orijinal.svg" height="45" alt="linux logo" title="Linux" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo" title="Jira" />
   <img width="15" />
