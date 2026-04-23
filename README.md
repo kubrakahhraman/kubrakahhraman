@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/chfVlP5gjIEAAAA1/max-verstappen-f1.webp" alt="Max Verstappen" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
+  <img src="https://media.tenor.com/chfVlP5gjIEAAAA1/max-verstappen-f1.webp" alt="Max Verstappen" width="100%" height="150px" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 <br/>
