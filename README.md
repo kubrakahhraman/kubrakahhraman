@@ -8,9 +8,10 @@
 </h3>
 
 ### 👩‍💻 About Me
-- 🎓 I'm currently studying **Computer Programming** and sharpening my skills through self-driven learning development area.
-- 🛠️ Deep diving into building robust data pipelines, working heavily with **Python, SQL, and Apache Kafka and many more**.
-- 🏎️ Currently building a self-led project on **Formula 1 Telemetry Data Engineering & Analysis & Predictive Modeling** (Team Verstappen! 🦁).
+- 🎯 **I am dedicated to specializing in Data Engineering and building a solid career path in Big Data Systems.**
+- 🎓 As a Computer Programming student, I bridge the gap between theoretical knowledge and hands-on, practical projects.
+- 🛠️ **Focus Area:** Building scalable data pipelines utilizing **Python, SQL, and Apache Kafka**.
+- 🏎️ **Current Project:** Developing a **Formula 1 Telemetry Data Engineering** project (Team Verstappen! 🦁).
 - 📫 How to reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kubra-kahraman/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
