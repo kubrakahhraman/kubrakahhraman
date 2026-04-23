@@ -11,7 +11,7 @@
 - 🎯 **I am dedicated to specializing in Data Engineering and building a solid career path in Big Data Systems.**
 - 🎓 As a Computer Programming student, I bridge the gap between theoretical knowledge and hands-on, practical projects.
 - 🛠️ **Focus Area:** Building scalable data pipelines utilizing **Python, SQL, and Apache Kafka**.
-- 🏎️ **Current Project:** Developing a **Formula 1 Telemetry Data Engineering** project (Team Verstappen! 🦁).
+- 🏎️ **Current Project:** Developing a **Formula 1 Telemetry Data Engineering** project (Team Verstappen!🦁🏁🙌).
 - 📫 How to reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kubra-kahraman/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
