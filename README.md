@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://media.tenor.com/chfVlP5gjIEAAAA1/max-verstappen-f1.webp" alt="Max Verstappen" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media.tenor.com/chfVlP5gjIEAAAA1/max-verstappen-f1.webp" alt="Max Verstappen" width="60%" />
 </p>
 
 <br/>
 
 <h1 align="center">Hi there, I'm Kübra! 👋</h1>
-<h3 align="center">Aspiring Data Engineer | IT Project & Tools Management
 </h3>
 
 ### 👩‍💻 About Me
