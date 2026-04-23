@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/13viCCoDYOwAAAA1/max-verstappen-winner.webp" alt="Max Verstappen Winner" width="100%" />
+  <img src="https://media.tenor.com/13viCCoDYOwAAAA1/max-verstappen-winner.webp" alt="Max Verstappen Winner" width="60%" />
 </p>
 
 <br/>
@@ -7,12 +7,6 @@
 <h1 align="center">Hi there, I'm Kübra! 👋</h1>
 <h3 align="center">Aspiring Data Engineer | IT Project & Tools Management
 </h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kubrakahhraman&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<br/>
 
 ### 👩‍💻 About Me
 - 🎓 I'm currently studying **Computer Programming** and sharpening my skills through self-driven learning development area.
@@ -30,30 +24,15 @@
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" title="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" title="PostgreSQL" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="45" alt="kafka logo" title="Apache Kafka" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" title="Docker" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" title="Git" />
-  <img width="15" />
-  <img src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-orijinal.svg" height="45" alt="linux logo" title="Linux" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo" title="Jira" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="45" alt="confluence logo" title="Confluence" />
-  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
 </div>
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubrakahhraman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kübra's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubrakahhraman&theme=tokyonight&hide_border=true&background=0D1117" alt="Kübra's GitHub Streak" />
-</div>
+ITS LIGHTS OUT AND AWAY WE GO!
