@@ -13,7 +13,7 @@
 - 🛠️ Deep diving into building robust data pipelines, working heavily with **Python, SQL, and Apache Kafka and many more**.
 - 🏎️ Currently building a self-led project on **Formula 1 Telemetry Data Engineering & Analysis & Predictive Modeling** (Team Verstappen! 🦁).
 - 💡 **My engineering philosophy:** *Don't just copy-paste. Break the code, fix the bugs, and fully understand the architecture before pushing to production.*
-- 📫 How to reach me: **[kubrakahhraman@gmail.com] - LinkedIn: https://www.linkedin.com/in/kubra-kahraman/**
+- 📫 How to reach me: **[kubrakahhraman@gmail.com] and more info about me:LinkedIn: https://www.linkedin.com/in/kubra-kahraman/**
 
 ---
 
