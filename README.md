@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://x.com/laistappen/status/2049156294142021663/photo/1" alt="Max Verstappen" width="60%" />
+  <img src="https://media.tenor.com/chfVlP5gjIEAAAA1/max-verstappen-f1.webp" alt="Max Verstappen" width="60%" />
 </p>
 
 <br/>
